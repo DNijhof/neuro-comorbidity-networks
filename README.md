@@ -36,7 +36,7 @@ Future extensions may include other conditions, for example **epilepsy** and **s
 
 ## ⚖️ License
 - **Code** in this repository is released under the [MIT License](LICENSE).  
-- **Data and text content** (e.g., figures, datasets, abstracts) will be released under [CC-BY 4.0](LICENSE.md) unless otherwise stated.  
+- **Data and text content** (e.g., figures, datasets, abstracts) will be released under [CC-BY 4.0](LICENSE-DATA.md) unless otherwise stated.  
 
 This means you are free to use, modify, and share this work, provided proper attribution is given.  
 
