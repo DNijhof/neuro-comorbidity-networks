@@ -28,9 +28,9 @@ Future extensions may include other conditions, for example **epilepsy** and **s
 
 ## 📂 Repository Structure
 - `index.md` → homepage for the GitHub Pages website  
-- `about.md` → detailed project description (optional)  
+- `about.md` → detailed project description
 - `publications.md` → outputs and presentations  
-- `README.md` → this file (repo information)  
+- `README.md` → this file
 
 ---
 
