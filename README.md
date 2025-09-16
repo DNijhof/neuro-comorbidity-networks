@@ -5,7 +5,7 @@ This repository hosts the website and resources for my PhD project:
 
 The project uses **network-based systems biology** approaches to investigate genetic and molecular mechanisms underlying comorbidity between neurodevelopmental and psychiatric disorders.  
 
-🌐 [Project website](https://github.com/DNijhof/neuro-comorbidity-networks).
+🌐 [Project website](https://dnijhof.github.io/neuro-comorbidity-networks/)
 
 ---
 
