@@ -27,8 +27,8 @@ Future extensions may include other conditions, for example **epilepsy** and **s
 ---
 
 ## 📂 Repository Structure
-- `index.md` → homepage for the GitHub Pages website  
-- `about.md` → detailed project description
+- `index.md` → homepage for the GitHub Pages website (to be added)
+- `about.md` → detailed project description (to be added; For a project description and poster, see the abstract and poster [here](publications/posters/EuroBioConductor2025.md))
 - `publications.md` → outputs and presentations  
 - `README.md` → this file
 
