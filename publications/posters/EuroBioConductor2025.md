@@ -9,3 +9,4 @@ You download the poster below:
 [EuroBioC2025_poster.pdf](https://github.com/user-attachments/files/22371196/EuroBioC2025_poster.pdf)
 
 Or you can view it here:
+<embed src="EuroBioC2025_poster.pdf" width="100%" height="600px" type="application/pdf">
