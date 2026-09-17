@@ -22,7 +22,8 @@ Future extensions may include other conditions, for example **epilepsy** and **s
 ---
 
 ## 📑 Publications & Outputs
-- **Sept 2025** – Poster at EuroBioConductor 2025.  
+- **Sept 2025** – Poster at EuroBioConductor 2025.
+- **Sept 2026** - Poster at ECCB 2026.
 
 ---
 
