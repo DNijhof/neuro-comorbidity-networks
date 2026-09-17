@@ -15,9 +15,8 @@ This project:
 - Curates gene lists linked to ASD (~1600) and ADHD (~350)  
 - Focuses on proteins expressed at the neuronal synapse  
 - Builds a molecular network from >50 published proteomic studies (SynaptomeDB) 
-- Uses **BioNAR** and **SynaptomeDB** to integrate and analyse protein–protein interaction models  
-
-Future extensions may include other conditions, for example **epilepsy** and **schizophrenia**.  
+- Uses **BioNAR** and **SynaptomeDB** to integrate and analyse protein–protein interaction models
+- Investigates the vulnerability of different cell types and brain regions for ASD and ADHD
 
 ---
 
